@@ -11,6 +11,11 @@ const songs = [
     { title: "Come and Get Your Love", artist: "Redbone", genre: "Rock" },
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
+    { title: "Tshwala bam", artist: "Titom", genre: "Amapiano"},
+    { title: "Masibe happy muntu wam" , artist: "Kabza the song" , genre: "Amapiano"},
+    { title: "Seduce", artist: "Daliwonga" , genre: "Amapiano"},
+    { title: "Umbulali", artist: "Chustar" , genre: "Gqom"},
+    { title: "Sicel'imithandazo" , artist: "Cairo cpt" , genre: "Gqom"},
     // Feel free to add even more songs
 ];
 
@@ -19,6 +24,9 @@ const songs = [
 const guardians = {
     "Star-Lord": "Rock",
     "Gamora": "Pop",
+    "Drax" : "R&B",
+    "Rocket" : "Amapiano",
+    "Groot" : "Gqom",
     // Add preferences for Drax, Rocket, and Groot
 };
 
